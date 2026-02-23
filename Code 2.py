@@ -1,4 +1,4 @@
-#This code adds colour to the dendrogram and lists genotypes in the same cluster
+#This code adds colour to the dendrogram and lists genotypes that are in the same cluster
 # ===============================
 # 1. Import Libraries
 # ===============================
